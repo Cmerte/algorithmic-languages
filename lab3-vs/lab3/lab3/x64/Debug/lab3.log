@@ -1,0 +1,63 @@
+﻿  cs.cpp
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\utils.h(36,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "cs.cpp")
+  
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\utils.h(48,14): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "cs.cpp")
+  
+  line.cpp
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\utils.h(36,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "line.cpp")
+  
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\utils.h(48,14): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "line.cpp")
+  
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(40,74): warning C4267: аргумент: преобразование из "size_t" в "const T"; возможна потеря данных
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(40,74): warning C4267:         with
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(40,74): warning C4267:         [
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(40,74): warning C4267:             T=int
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(40,74): warning C4267:         ]
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(47,81): warning C4267: аргумент: преобразование из "size_t" в "const T"; возможна потеря данных
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(47,81): warning C4267:         with
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(47,81): warning C4267:         [
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(47,81): warning C4267:             T=int
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(47,81): warning C4267:         ]
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(55,80): warning C4267: аргумент: преобразование из "size_t" в "const T"; возможна потеря данных
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(55,80): warning C4267:         with
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(55,80): warning C4267:         [
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(55,80): warning C4267:             T=int
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(55,80): warning C4267:         ]
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\line.cpp(68,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  logs.cpp
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\utils.h(36,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "logs.cpp")
+  
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\utils.h(48,14): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "logs.cpp")
+  
+  main.cpp
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\utils.h(36,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\utils.h(48,14): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\main.cpp(88,82): warning C4267: аргумент: преобразование из "size_t" в "const T"; возможна потеря данных
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\main.cpp(88,82): warning C4267:         with
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\main.cpp(88,82): warning C4267:         [
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\main.cpp(88,82): warning C4267:             T=int
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\main.cpp(88,82): warning C4267:         ]
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\main.cpp(95,74): warning C4267: аргумент: преобразование из "size_t" в "const T"; возможна потеря данных
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\main.cpp(95,74): warning C4267:         with
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\main.cpp(95,74): warning C4267:         [
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\main.cpp(95,74): warning C4267:             T=int
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\main.cpp(95,74): warning C4267:         ]
+  pipeline.cpp
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\utils.h(36,9): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "pipeline.cpp")
+  
+C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\utils.h(48,14): warning C4984: "if constexpr" — расширение языка C++17
+  (компиляция исходного файла "pipeline.cpp")
+  
+  Создание кода...
+  lab3.vcxproj -> C:\Users\Антон\Desktop\university\algorithmic-languages\lab3-vs\lab3\x64\Debug\lab3.exe
